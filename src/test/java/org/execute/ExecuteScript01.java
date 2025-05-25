@@ -110,8 +110,14 @@ public class ExecuteScript01 extends Junitsframework {
 	
 	public void setss() {
 		System.out.println("ok");
+        
+	}
+	
+	public void complete() {
+		System.out.println("jd");
 
 	}
+	
 	
 
 }
