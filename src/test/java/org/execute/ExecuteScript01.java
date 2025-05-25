@@ -22,6 +22,7 @@ public class ExecuteScript01 extends Junitsframework {
 			jf.winView("maximize");
 			jf.scrollUpDown();	
 			
+			
 		} catch (Exception e) {
 			
 		}
@@ -107,6 +108,10 @@ public class ExecuteScript01 extends Junitsframework {
 		}
 	}
 	
+	public void setss() {
+		System.out.println("ok");
+
+	}
 	
 
 }
